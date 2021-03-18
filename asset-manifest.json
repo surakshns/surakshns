@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/surakshns/static/css/main.bb97558e.chunk.css",
-    "main.js": "/surakshns/static/js/main.657a69b8.chunk.js",
-    "main.js.map": "/surakshns/static/js/main.657a69b8.chunk.js.map",
+    "main.css": "/surakshns/static/css/main.e5fab349.chunk.css",
+    "main.js": "/surakshns/static/js/main.530cf1e0.chunk.js",
+    "main.js.map": "/surakshns/static/js/main.530cf1e0.chunk.js.map",
     "runtime-main.js": "/surakshns/static/js/runtime-main.96565c4c.js",
     "runtime-main.js.map": "/surakshns/static/js/runtime-main.96565c4c.js.map",
     "static/js/2.6a6cb448.chunk.js": "/surakshns/static/js/2.6a6cb448.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.376e8562.chunk.js": "/surakshns/static/js/3.376e8562.chunk.js",
     "static/js/3.376e8562.chunk.js.map": "/surakshns/static/js/3.376e8562.chunk.js.map",
     "index.html": "/surakshns/index.html",
-    "static/css/main.bb97558e.chunk.css.map": "/surakshns/static/css/main.bb97558e.chunk.css.map",
+    "static/css/main.e5fab349.chunk.css.map": "/surakshns/static/css/main.e5fab349.chunk.css.map",
     "static/js/2.6a6cb448.chunk.js.LICENSE.txt": "/surakshns/static/js/2.6a6cb448.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.96565c4c.js",
     "static/js/2.6a6cb448.chunk.js",
-    "static/css/main.bb97558e.chunk.css",
-    "static/js/main.657a69b8.chunk.js"
+    "static/css/main.e5fab349.chunk.css",
+    "static/js/main.530cf1e0.chunk.js"
   ]
 }
