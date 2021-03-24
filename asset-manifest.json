@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/surakshns/static/css/main.d7245636.chunk.css",
-    "main.js": "/surakshns/static/js/main.ba75300e.chunk.js",
-    "main.js.map": "/surakshns/static/js/main.ba75300e.chunk.js.map",
+    "main.css": "/surakshns/static/css/main.6e1a387e.chunk.css",
+    "main.js": "/surakshns/static/js/main.eb165133.chunk.js",
+    "main.js.map": "/surakshns/static/js/main.eb165133.chunk.js.map",
     "runtime-main.js": "/surakshns/static/js/runtime-main.d3fa64a0.js",
     "runtime-main.js.map": "/surakshns/static/js/runtime-main.d3fa64a0.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/surakshns/static/css/2.7fc9bc2b.chunk.css",
@@ -12,14 +12,15 @@
     "static/js/3.ca9be94d.chunk.js.map": "/surakshns/static/js/3.ca9be94d.chunk.js.map",
     "index.html": "/surakshns/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/surakshns/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.d7245636.chunk.css.map": "/surakshns/static/css/main.d7245636.chunk.css.map",
-    "static/js/2.2a76372e.chunk.js.LICENSE.txt": "/surakshns/static/js/2.2a76372e.chunk.js.LICENSE.txt"
+    "static/css/main.6e1a387e.chunk.css.map": "/surakshns/static/css/main.6e1a387e.chunk.css.map",
+    "static/js/2.2a76372e.chunk.js.LICENSE.txt": "/surakshns/static/js/2.2a76372e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/surakshns/static/media/Gilroy-ExtraBold.0094146a.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.d3fa64a0.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.2a76372e.chunk.js",
-    "static/css/main.d7245636.chunk.css",
-    "static/js/main.ba75300e.chunk.js"
+    "static/css/main.6e1a387e.chunk.css",
+    "static/js/main.eb165133.chunk.js"
   ]
 }
